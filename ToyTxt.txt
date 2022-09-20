@@ -1,0 +1,5 @@
+This is an example .txt file.
+
+we like these files.
+
+no formatting, just information.
